@@ -1,3 +1,7 @@
+# Use this instead:  
+  
+https://github.com/tasket/Qubes-vpn-support/pull/71  
+
 # Qubes-vpn-support
 Secure VPN VMs in [Qubes OS](https://www.qubes-os.org)
 
